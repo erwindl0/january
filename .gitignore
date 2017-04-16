@@ -9,6 +9,10 @@ tmp/
 *~.nib
 *.class
 
+# IntelliJ #
+*.iml
+.idea/
+
 # Sonar #
 org.sonarlint.eclipse.core.prefs
 
